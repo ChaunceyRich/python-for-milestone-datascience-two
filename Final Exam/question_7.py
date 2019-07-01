@@ -1,0 +1,3 @@
+"""
+Create Manual Numpy Array?
+"""
