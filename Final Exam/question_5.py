@@ -1,3 +1,5 @@
-"""
- Write Function to Calculate Sum Across Columns?
-"""
+#Question 5
+#Import Numpy Library
+import numpy as np
+#Across Column calculation function
+np.sum(array, axis)
